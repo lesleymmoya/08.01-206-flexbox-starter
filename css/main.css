@@ -118,7 +118,7 @@ footer {
 
 main {
   background-color: #ccc;
-  height: 250px;
+  height: 300px;
   width: 100%;
 }
 
@@ -163,7 +163,7 @@ main {
   font-size: 1.6em;
   background-color: #f16059;
   width: 30%;
-  height: 400px;
+  height: 250px;
   display: flex;
   justify-content: center;
   align-items: center;
